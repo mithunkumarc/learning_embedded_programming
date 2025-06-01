@@ -1,1 +1,5 @@
-# learning_embedded_programming
+### learning_embedded_programming
+
+#### roadmap
+
+https://www.youtube.com/@ChipCamp
